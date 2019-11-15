@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21832" started-at="2019-11-14T09:58:01Z" finished-at="2019-11-14T09:58:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21832" started-at="2019-11-14T09:58:01Z" finished-at="2019-11-14T09:58:22Z">
+      <class name="BrowsweTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:BrowsweTest@3c0ecd4b]" name="setup" is-config="true" duration-ms="185" started-at="2019-11-14T09:58:00Z" finished-at="2019-11-14T09:58:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SetUptest()[pri:0, instance:BrowsweTest@3c0ecd4b]" name="SetUptest" is-config="true" duration-ms="11648" started-at="2019-11-14T09:58:01Z" finished-at="2019-11-14T09:58:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUptest -->
+        <test-method status="PASS" signature="googleSearch()[pri:0, instance:BrowsweTest@3c0ecd4b]" name="googleSearch" duration-ms="5984" started-at="2019-11-14T09:58:12Z" finished-at="2019-11-14T09:58:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch -->
+        <test-method status="PASS" signature="teardownTest()[pri:0, instance:BrowsweTest@3c0ecd4b]" name="teardownTest" is-config="true" duration-ms="4182" started-at="2019-11-14T09:58:18Z" finished-at="2019-11-14T09:58:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:BrowsweTest@3c0ecd4b]" name="tearDown" is-config="true" duration-ms="286" started-at="2019-11-14T09:58:23Z" finished-at="2019-11-14T09:58:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- BrowsweTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
